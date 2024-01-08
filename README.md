@@ -35,15 +35,15 @@ La resta de fitxers són exercicis per practicar tot el que es pot llegir del Ge
 ## Resum contingut fitxers Genbank.
 
 ### Bloc 1 - Context (o Annotations)
-· 29903 posició de la seqüencia en la que acaba la seqüència.
-· DBLINK projecte d'on ha sortit aquesta seqüència. 
-· ORGANISM Diferents classificacions del coronavirus. 
-· Reference Authors tots els que l'han seqüenciat 
-· Title Títol del article on han publicat. 
-· JOURNAL Mitjà on ho han publicat 
-· PUBMED link del article (si el volem llegir podem intentar buscar a SCI HUB) 
-· REFERENCE de otras personas que han estat treballant sobre el tema. 
-· FEATURES les diferents anotacions que tenen el fitxer. [anotacions]
+* 29903 posició de la seqüencia en la que acaba la seqüència.
+* DBLINK projecte d'on ha sortit aquesta seqüència. 
+* ORGANISM Diferents classificacions del coronavirus. 
+* Reference Authors tots els que l'han seqüenciat 
+* Title Títol del article on han publicat. 
+* JOURNAL Mitjà on ho han publicat 
+* PUBMED link del article (si el volem llegir podem intentar buscar a SCI HUB) 
+* REFERENCE de otras personas que han estat treballant sobre el tema. 
+* FEATURES les diferents anotacions que tenen el fitxer. [anotacions]
 
 El fitxer // es el final d'un fitxer genbank
 
