@@ -26,11 +26,15 @@ Genbank de prova:
 
 ### Amb la llibreria Entrez.
 
+Solució senzilla:
+[read_genbank_entrez.py](https://github.com/miquelamorosaldev/m14-uf2-intro-genbank/blob/main/read_genbank_entrez.py)
+
+Solució més robusta:
 [read_genbank_entrez.py](https://github.com/miquelamorosaldev/m14-uf2-intro-genbank/blob/main/read_genbank_entrez.py)
 
 ## Exercicis.
 
-La resta de fitxers són exercicis per practicar tot el que es pot llegir del Genbank amb BioPython.
+La resta de fitxers són exercicis per practicar tot el que es pot llegir del Genbank amb BioPython; enunciats i solucions.
 
 ## Resum contingut fitxers Genbank.
 
