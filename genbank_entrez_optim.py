@@ -7,9 +7,9 @@ GENBANK_NAME = "SarsCov2.gb"
 DATABASE = "nuccore"
 ACCESSION = "NC_045512"
 
-GENBANK_NAME = "HomoSapiens.gb"  
-DATABASE = "protein"
-ACCESSION = "4507341"
+#GENBANK_NAME = "HomoSapiens.gb"  
+#DATABASE = "protein"
+#ACCESSION = "4507341"
 
 empremtes_guardades = os.path.join(os.getcwd(), GENBANK_NAME)
 Entrez.email = "mamoro10@xtec.cat"
