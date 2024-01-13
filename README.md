@@ -30,11 +30,19 @@ Solució senzilla:
 [read_genbank_entrez.py](https://github.com/miquelamorosaldev/m14-uf2-intro-genbank/blob/main/read_genbank_entrez.py)
 
 Solució més robusta:
-[read_genbank_entrez.py](https://github.com/miquelamorosaldev/m14-uf2-intro-genbank/blob/main/read_genbank_entrez.py)
+[genbank_entrez_optim.py](https://github.com/miquelamorosaldev/m14-uf2-intro-genbank/blob/main/genbank_entrez_optim.py)
+
+Si volem descarregar-nos diversos recursos a partir d'una llista d'AccessionId aquí tenim exemples de com fer-ho:
+[sum-eutils.py](https://github.com/miquelamorosaldev/m14-uf2-intro-genbank/blob/main/sum-eutils.py)
+
+Es combinen les Entrez eUtils d'aquesta manera: 
+* eSearch  -> Obtenir llista Accession
+* ePost    -> Publiquem llista Accession i obtenin sessionId
+* eFetch   -> Usem el sessionId per descarregar-nos els fitxers.
 
 ## Exercicis.
 
-La resta de fitxers són exercicis per practicar tot el que es pot llegir del Genbank amb BioPython; enunciats i solucions.
+La resta de fitxers són exercicis bàsics per practicar tot el que es pot llegir del Genbank amb BioPython; enunciats i solucions.
 
 ## Resum contingut fitxers Genbank.
 
